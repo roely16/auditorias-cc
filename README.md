@@ -1,4 +1,6 @@
-# auditorias-cc
+# Aplicación para Auditories de Centros Comercial - Pandemia COVID-19
+
+Software utilizado para la verificación de diversos aspectos utilizados para valor si los centros comerciales cumplian con los protocolos requeridos durante la pandemia de COVID-19. 
 
 ## Project setup
 ```
